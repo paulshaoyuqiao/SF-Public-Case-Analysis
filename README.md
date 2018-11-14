@@ -1,6 +1,7 @@
 # SF-Public-Case-Analysis
 This is an exploratory analysis of the San Francisco public service cases over the past few years. 
-Please see **Analysis.ipynb** for details.
+
+Please see `Analysis.ipynb` for details.
 
 The problem I am trying to investigate is predicting statuses of the case requests from their other characteristics (such as request categories, locations, etc.)
 
